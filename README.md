@@ -3,6 +3,8 @@
 
 Este projeto utiliza sinais CSI (Channel State Information) de uma subportadora de Wi-Fi para classificar a presença ou ausência de pessoas em uma sala. O modelo utiliza janelas de 1 segundo (33 amostras) como entrada para uma rede neural convolucional (CNN).
 
+![alt text](https://github.com/samussd/csi-presence-detection/blob/main/modelo.png?raw=true)
+
 ## Estrutura do Projeto
 
 ```
